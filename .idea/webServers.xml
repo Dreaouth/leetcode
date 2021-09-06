@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="848de20a-1e0a-45da-911b-0c65be4e42e0" name="leetcode">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="112.126.69.229" port="22" sshConfigId="20be50a5-22cc-4768-93f5-56298b52c692" sshConfig="root@112.126.69.229:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
